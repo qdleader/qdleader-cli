@@ -1,0 +1,27 @@
+{
+  "name": "icourt-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "bin/enter",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0"
+  },
+  "devDependencies": {
+    "@inquirer/prompts": "^3.3.0",
+    "axios": "^1.6.5",
+    "chalk": "^4.0.0",
+    "commmander": "0.0.1-security",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.7.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^8.2.6",
+    "ora": "^4.0.0"
+  }
+}
